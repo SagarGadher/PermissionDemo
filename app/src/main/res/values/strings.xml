@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PermissionDemo</string>
+    <string name="permission_prefrance">PERMISSION_PREFRANCE</string>
+    <string name="permission_camera">PERMISSION_CAMERA</string>
+    <string name="permission_storage">PERMISSION_STORAGE</string>
+    <string name="permission_contacts">PERMISSION_CONTACS</string>
+</resources>
